@@ -11,7 +11,7 @@ last_name: Lee
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ⌛
 
 # Is this the primary user of the site?
 superuser: true
@@ -33,18 +33,19 @@ profiles:
   - icon: at-symbol
     url: 'mailto:hansollee.research@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/onesol2/
+    label: My daily life
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Pinetree-Lee
+    label: I'm planning to upload my code...
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/hansollee-research/
+    label: My professional life
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=fgOaPEgAAAAJ&hl=ko&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/my-orcid?orcid=0009-0001-8680-1663
 
 interests:
   - Artificial Intelligence

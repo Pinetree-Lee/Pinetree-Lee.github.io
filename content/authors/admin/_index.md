@@ -48,9 +48,9 @@ profiles:
     url: https://orcid.org/my-orcid?orcid=0009-0001-8680-1663
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Thermal & Mass Transport
+  - Advanced Electronics Packaging
+  - Nano/Micro Fabrication
 
 education:
   - area: PhD Artificial Intelligence
